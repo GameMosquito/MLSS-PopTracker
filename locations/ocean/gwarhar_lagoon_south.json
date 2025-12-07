@@ -1,8 +1,8 @@
 [
     {
         "name": "Gwarhar Lagoon South&#8203",
-        "access_rules": ["$CANPEARL,popple2,$SSSINK",
-        "$CANDASH,popple2,logic_hard,$SSSINK"],
+        "access_rules": ["$CANPEARL,$SSSINK",
+        "$CANDASH,logic_hard,$SSSINK"],
         "children": 
         [
             {
