@@ -9,7 +9,7 @@
     "codes": "dragohoho_hosted"
   },
   {
-    "name": "Queen Bean",
+    "name": "queenbean",
     "type": "toggle",
     "loop": "true",
     "img": "images/bosses/queen_bean.png",
@@ -83,3 +83,4 @@
  ] 
 
   
+
