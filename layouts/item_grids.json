@@ -86,9 +86,9 @@
                 "item_size": "30",
                 "item_margin": "1,5",
                 "rows": [
-                    ["dragohoho","","chuckolator","","popple2"],
-                    ["mompiranha","","kidnapped","","realbeanstar"],
-                    ["jojora","","popple4"],
+                    ["dragohoho","","queenbean","","chuckolator"],
+                    ["popple2","","mompiranha","","kidnapped"],
+                    ["realbeanstar","","jojora","","popple4"],
                     ["boss_hoohoorosx","boss_dragohohox","boss_queen_beanx","boss_popple1x","boss_wigglerx","boss_chuckolatorx"],
                     ["boss_cacklettax","boss_popple2x","boss_mompiranhax","boss_trunklex","boss_hermiex","boss_popple3x" ],
                     ["boss_jojorax","boss_popple4x","boss_iggyx","boss_mortonx","boss_lemmyx","boss_ludwigx"],
@@ -131,3 +131,4 @@
     }
 
 }
+
