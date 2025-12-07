@@ -30,9 +30,9 @@
                 "item_size": "30",
                 "item_margin": "3,5",
                 "rows": [
-                    ["dragohoho","","chuckolator","","popple2"],
-                    ["mompiranha","","kidnapped","","realbeanstar"],
-                    ["jojora","","popple4"]
+                    ["dragohoho","","queenbean","","chuckolator"],
+                    ["popple2","","mompiranha","","kidnapped"],
+                    ["realbeanstar","","jojora","","popple4"]
                 ]
             }
         ]
@@ -129,4 +129,5 @@
             }
         ]
     }
+
 }
