@@ -10,6 +10,7 @@
                     {
                         "name": "Post-Queen Bean",
                         "clear_as_group": false,
+                        "access_rules": ["queenbean", "chuckolator"],
                         "item_count": 3,
                         "chest_unopened_img": "images/chests/shop_pants_false.png",
                         "chest_opened_img": "images/chests/shop_pants_true.png"
@@ -71,6 +72,7 @@
                     {
                         "name": "Post-Queen Bean",
                         "clear_as_group": false,
+                        "access_rules": ["queenbean", "chuckolator"],
                         "item_count": 2,
                         "chest_unopened_img": "images/chests/shop_badge_false.png",
                         "chest_opened_img": "images/chests/shop_badge_true.png"
