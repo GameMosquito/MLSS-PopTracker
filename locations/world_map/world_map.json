@@ -3645,14 +3645,14 @@
                     {
                         "name": "Joke's End Northeast of Boiler Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible" ],
-                        "access_rules": ["$CANCRASH, handmario", "logic_hard, handmario"],
+                        "access_rules": ["$CANCRASH, handmario, $CANDIG", "logic_hard, handmario, $CANDIG"],
                         "chest_unopened_img": "images/chests/chuckle_visible_false.png",
                         "chest_opened_img": "images/chests/chuckle_visible_true.png"
                     },
                     {
                         "name": "Joke's End Northeast of Boiler Room 3 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible" ],
-                        "access_rules": ["$CANCRASH, handmario", "logic_hard, handmario"],
+                        "access_rules": ["$CANCRASH, handmario, $CANDIG", "logic_hard, handmario, $CANDIG"],
                         "chest_unopened_img": "images/chests/chuckle_visible_false.png",
                         "chest_opened_img": "images/chests/chuckle_visible_true.png"
                     },
