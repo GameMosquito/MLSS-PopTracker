@@ -1474,7 +1474,7 @@
                     },
 					{
                         "name": "Pants Shop Post-Queen Bean",
-                        "access_rules": ["keyrose","keybrooch"],
+                        "access_rules": ["keyrose, queenbean","keybrooch, queenbean", "keyrose, chuckolator","keybrooch, chuckolator"],
                         "item_count": 2,
                         "chest_unopened_img": "images/chests/shop_pants_false.png",
                         "chest_opened_img": "images/chests/shop_pants_true.png"
@@ -1516,7 +1516,7 @@
                     },
                     {
                         "name": "Badge Shop Post-Queen Bean",
-                        "access_rules": ["keyrose","keybrooch"],
+                        "access_rules": ["keyrose, queenbean","keybrooch, queenbean", "keyrose, chuckolator","keybrooch, chuckolator"],
                         "item_count": 2,
                         "chest_unopened_img": "images/chests/shop_badge_false.png",
                         "chest_opened_img": "images/chests/shop_badge_true.png"
