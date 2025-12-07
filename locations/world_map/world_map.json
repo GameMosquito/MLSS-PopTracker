@@ -1848,8 +1848,7 @@
                         "name": "Beanbean Brooch",
                         "access_rules": ["keyrose"],
                         "chest_unopened_img": "images/chests/key_brooch_false.png",
-                        "chest_opened_img": "images/chests/key_brooch_true.png",
-						"hosted_item": "queenbean_hosted"
+                        "chest_opened_img": "images/chests/key_brooch_true.png"
                     },
                     {
                         "name": "Queen Bean Beanstar Complete",
