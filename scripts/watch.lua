@@ -1,6 +1,7 @@
 HOSTED_ITEMS =
 {
   "dragohoho",
+  "queenbean",
   "chuckolator",
   "popple2",
   "mompiranha",
