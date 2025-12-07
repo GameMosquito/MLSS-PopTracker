@@ -57,7 +57,7 @@ function SSSINK()
 end
 function OCEAN()
     return
-    has("popple2") and has ("hammer3")
+    (has("popple2") or SSSINK()) and has ("hammer3")
 end
 function ACCESSFUNGITOWN()
     return
@@ -65,9 +65,10 @@ function ACCESSFUNGITOWN()
 end
 function ACCESSJOKES()
     return
-    has("popple2") and has ("hammer3")
+    (has("popple2") or SSSINK()) and has ("hammer3")
 end
 function BOWSERACCESS()
     return
     ACCESSJOKES() and CANDASH() and CANDIG() and has("realbeanstar") and has ("handmario") and has ("keydress") and has ("keyfakestar") and has ("jojora")
+
 end
