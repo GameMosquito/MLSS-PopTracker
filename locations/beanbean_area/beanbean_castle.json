@@ -103,6 +103,10 @@
                 "access_rules": ["keyrose"],
                 "sections": [
                     {
+                        "name": "Queen Bean",
+                        "hosted_item": "queenbean_hosted"
+                    },
+                    {
                         "name": "Beanbean Brooch",
                         "chest_unopened_img": "images/chests/key_brooch_false.png",
                         "chest_opened_img": "images/chests/key_brooch_true.png"
