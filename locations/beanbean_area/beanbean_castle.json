@@ -109,7 +109,8 @@
                     {
                         "name": "Beanbean Brooch",
                         "chest_unopened_img": "images/chests/key_brooch_false.png",
-                        "chest_opened_img": "images/chests/key_brooch_true.png"
+                        "chest_opened_img": "images/chests/key_brooch_true.png",
+                        "hosted_item": "queenbean_hosted"
                     }
                 ],
                 "map_locations": 
