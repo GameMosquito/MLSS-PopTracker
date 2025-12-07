@@ -9,6 +9,15 @@
     "codes": "dragohoho_hosted"
   },
   {
+    "name": "Queen Bean",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/queen_bean.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "queenbean_hosted"
+  },
+  {
     "name": "chuckolator",
     "type": "toggle",
     "loop": "true",
@@ -72,4 +81,5 @@
     "codes": "popple4_hosted"
   }
  ] 
+
   
