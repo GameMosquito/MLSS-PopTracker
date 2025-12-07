@@ -7,6 +7,13 @@
     "codes": "dragohoho"
   },
   {
+    "name": "Queen Bean",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/queen_bean.png",
+    "codes": "queenbean"
+  },
+  {
     "name": "Chuckolator",
     "type": "toggle",
     "loop": "true",
@@ -54,4 +61,5 @@
     "codes": "popple4"
   }
  ] 
+
   
