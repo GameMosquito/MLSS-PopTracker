@@ -1523,7 +1523,7 @@
                     },
                     {
                         "name": "Badge Shop Post-Chuckolator",
-                        "access_rules": ["keyose, chuckolator","keybrooch, chuckolator", "keyrose, mompiranha","keybrooch, mompiranha"],
+                        "access_rules": ["keyrose, chuckolator","keybrooch, chuckolator", "keyrose, mompiranha","keybrooch, mompiranha"],
                         "item_count": 3,
                         "chest_unopened_img": "images/chests/shop_badge_false.png",
                         "chest_opened_img": "images/chests/shop_badge_true.png"
