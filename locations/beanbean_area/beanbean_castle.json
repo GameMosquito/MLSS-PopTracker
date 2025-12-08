@@ -101,7 +101,6 @@
             {
                 "name": "Queen Bean",
                 "access_rules": ["keyrose"],
-                "clear_as_group": true,
                 "sections": [
                     {
                         "name": "Queen Bean",
