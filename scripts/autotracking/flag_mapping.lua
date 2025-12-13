@@ -79,15 +79,5 @@ EVENT_FLAG_MAPPING =
         setting = nil
       }
     }
-  },
-  {
-    bitmask = 0x100,
-    codes =
-    {
-      {
-        code = "queenbean",
-        setting = nil
-      }
-    }
   }
 }
