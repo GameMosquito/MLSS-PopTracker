@@ -270,6 +270,7 @@ function updateEvents(value)
               Tracker:FindObjectForCode(code.code).Active = Tracker:FindObjectForCode(code.code).Active or value & event.bitmask ~= 0
             else
               Tracker:FindObjectForCode(code.code).Active = value & event.bitmask ~= 0
+              print(string.format("Code: %s\nValue: %x", code.code, value))
             end
           end
         end
